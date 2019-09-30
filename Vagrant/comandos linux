@@ -1,0 +1,7 @@
+wall = falar com quem ta conectado via ssh
+du nome-arquivo/diretorio = verificar espaço utilizado
+du -h nome-arquivo/diretorio = mostrar para humano ver
+du -sh * = quem tem o tamanho maior
+tail -n 10 =
+logstash = coletar informações da máquina e enviar para servidor
+
